@@ -2,13 +2,12 @@
 # 💻 Projeto Java - Interface de Login com Swing
 
 Este projeto inclui exemplos de Programação Orientada a Objetos (POO) e interface gráfica com Java Swing. 
-A classe `PainelLogin` representa um painel de login funcional com campos de entrada e layout gerenciado.
+
 
 ## 🧠 Conceitos aplicados
 
-- Criação de interfaces gráficas com Swing (`JPanel`, `JTextField`, `JPasswordField`, `JLabel`, `JButton`)
+- Criação de interfaces gráficas com Swing (`JPanel`, `JTextField`, `JLabel`, `JButton`)
 - Organização visual com gerenciadores de layout
-- Encapsulamento e reaproveitamento de código
 
 ## 📁 Organização
 
